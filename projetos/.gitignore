@@ -1,0 +1,4 @@
+.venv
+schools_score/schools.csv
+netflix_movies/netflix_data.csv
+clean_bank_data/bank_marketing.csv

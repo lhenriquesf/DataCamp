@@ -1,3 +1,4 @@
+#%%
 def raise_val(num):
     def inner(x):
         raised = x**num
@@ -8,3 +9,4 @@ square = raise_val(2)
 cube = raise_val(3)
 
 print(square(7), cube(6))
+# %%
